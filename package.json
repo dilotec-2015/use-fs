@@ -112,6 +112,7 @@
 		"overrides": {
 			"micromatch@<4.0.8": ">=4.0.8"
 		},
+		"onlyBuiltDependencies": ["lefthook"]
 	},
 	"dependencies": {
 		"ignore": "^7.0.3"
